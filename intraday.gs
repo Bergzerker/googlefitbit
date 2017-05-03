@@ -11,7 +11,7 @@
 /*
 * Do not change these key names. These are just keys to access these properties once you set them up by running the Setup function from the Fitbit menu
 */
-// Key of ScriptProperty for Firtbit consumer key.
+// Key of ScriptProperty for Fitbit consumer key.
 var CONSUMER_KEY_PROPERTY_NAME = "fitbitConsumerKey";
 // Key of ScriptProperty for Fitbit consumer secret.
 var CONSUMER_SECRET_PROPERTY_NAME = "fitbitConsumerSecret";
